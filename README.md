@@ -1,6 +1,2 @@
 # Mini_project_Bank
-The first step was to clean the datal, for any incosistancies, like blank spaces, anamolies outliers etc.
-Step two was to do a basic EDA to understand what the information being presented had to say.
-In the next steps I prepared the data for finanal model application, eg: Adding dummy variables.
-Finally models where implemented: Logistic regression, decision trees, random forest, XG boost, Ada Boost.
-The different models were compared for their different level of performance.
+Problem: A bank needs to automize its loan approval process for its customers, using past database of approval and rejections made by the bank the target is to come up with a model that will give results as close as possible to the existing process. (Binary Classification problem)
